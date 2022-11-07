@@ -1,3 +1,4 @@
 
 # ignore ALL files in ANY directory named folder-to-be-removed/
 folder-to-be-removed/
+folder-to-be-ignored/
